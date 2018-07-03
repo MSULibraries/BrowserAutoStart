@@ -1,0 +1,11 @@
+								--- MSU Library Auto URL ---
+
+-- This is a simple readme for the Auto URL Batch File that runs on startup.
+
+								-- How to Use --
+
+-- Run this batch file [Lib_Auto_URL.bat] AS ADMINISTRATOR and if done correctly, the Auto URL program will be placed onto the desktop, 
+and it's shortchut will be copied to the Startup folder to run on first startup.
+
+
+-- To change the Web URL located on the .bat file run the Lib_URL.bat file in a text editor such as Notepad++ or VS Code, and change the line that starts with [start '' ] to the URL of your choosing.

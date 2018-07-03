@@ -1,0 +1,3 @@
+@echo off
+title Opening Library Page...
+start "" www.lib.msstate.edu
